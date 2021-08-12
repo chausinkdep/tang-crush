@@ -1,13 +1,10 @@
 const CONFIG = {
     introTitle: 'hellu hhe!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `hehehe he heehe hehehehehehe ehe hehe heeeee hehehe`,
     btnIntro: 'hihi',
-    title: 'pạn kó iu mìnk hok z 😙',
-    desc: 'z là pạn đã bik iu gòi đók ',
-    btnYes: 'Vẫn cứ là thích em <33',
+    title: 'kó bao giờ pạn cười khi nch với ai đok chưa 😙',
+    desc: 'z nghĩa là pạn đã bik iu gòi đók ',
+    btnYes: 'Vẫn cứ là thích bchau ehe <33',
     btnNo: 'Không :3',
     question:'vì xao pạn iu tui <3',
     btnReply: 'Gửi cho bchau <3',
